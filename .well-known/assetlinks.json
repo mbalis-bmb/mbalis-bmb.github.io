@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.homeenergyhub.app",
+      "sha256_cert_fingerprints": [
+        "91:92:AB:3B:77:DF:42:8C:19:56:97:08:9F:96:0C:21:BC:5B:05:15:78:BA:41:85:B6:FD:EE:EC:2B:DA:99:21"
+      ]
+    }
+  }
+]
